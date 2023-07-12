@@ -1,0 +1,105 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.container {
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    padding: 50px;
+}
+
+header,
+.main-el,
+.password-fields-el {
+    display: flex;
+}
+
+header {
+    font-family: 'Karla', sans-serif;
+    text-align: left;
+    font-weight: 800;
+    justify-content: start;
+    align-items: center;
+    height: 50%;
+}
+
+h1 {
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px #000000;
+}
+
+span {
+    color: #4ADF86;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 20;
+    font-weight: 400;
+}
+
+
+.main-el {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    gap: 50px;
+}
+
+.btn-section {
+    width: 100%;
+    border-bottom: 1px solid #2F3E53;
+}
+
+button {
+    color: #FFFFFF;
+    font-family: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    background-color:#10B981;
+    border: none;
+    border-radius: 6px;
+    padding: 9px 17px;
+    width: 191px;
+    height: 42px;
+    margin-bottom: 50px;
+}
+
+
+
+.password-fields-el {
+    text-align: center;
+    gap: 30px;
+}
+
+#content-el {
+    background-color: azure;
+}
+
+#content-el-two {
+    background-color: lightgray;
+}
+
+#content-el,
+#content-el-two {
+    color: #55F991;
+    background-color: #273549;
+    padding: 10px 10px 5px 10px;
+    height: 39px;
+    width: 211px;
+    border-radius: 6px;
+}
+
+
+
+
+
