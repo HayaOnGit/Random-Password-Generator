@@ -24,8 +24,8 @@ A simple web-based 13-character random password generator.
 
 ## Installation
 
-1. Clone the Repository:
+1. Clone the repository:
 ```
 git clone https://github.com/HayaOnGit/Basketball-Scoreboard.git
 ```
-2. Open the Project: Open test.html in your web browser to view the scoreboard.
+2. Open the project: Open test.html in your web browser to view the scoreboard.
