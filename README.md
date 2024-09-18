@@ -25,10 +25,10 @@ A simple web-based 13-character random password generator.
 ## Project Structure
 All files are in the same(root) directory.
 
-- test.html: The main HTML file that contains the structure.
-- test.css: The CSS file that contains the styles.
-- test.js: The JavaScript file that handles logic.
-- _redirects: A _redirects file for the html file.
+**test.html:** &nbsp; The main HTML file that contains the structure.<br>
+**test.css:** &nbsp; The CSS file that contains the styles.<br>
+**test.js:** &nbsp; The JavaScript file that handles logic.<br>
+**_redirects:** &nbsp; A _redirects file for the html file.<br>
 
 ## Installation
 
